@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>mobile-automation</name>
+   <tag></tag>
+   <UUID>8d7effb8-2113-478c-8562-b6e1e73e3829</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
